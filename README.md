@@ -28,3 +28,4 @@ This repo is a GDD for dark urban fantasy grand strategy game where players buil
 - Reuse terminology from `GLOSSARY.md`.
 - Preserve consistency with `DESIGN_PRINCIPLES.md`.
 - Follow the `README.md` and `TEMPLATE.md` when creating new files in `mechanics` and `ideas`.
+- Edit relevant files, like ToC of this `README` and the ones in `mechanics` or `ideas`, as well as the glossary, if relevant when creating new files.
