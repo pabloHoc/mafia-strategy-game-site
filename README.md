@@ -1,6 +1,6 @@
 # Mafia Strategy Game
 
-### Table of Contents
+### Table of Content
 
 - [Contributing](CONTRIBUTING.md)
 - [Game Overview](GAME_OVERVIEW.md)
