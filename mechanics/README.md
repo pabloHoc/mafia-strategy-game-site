@@ -1,1 +1,5 @@
-Testing if you can read this
+# IDEAS
+
+### Table of Content
+
+- [TEMPLATE.md](TEMPLATE.md)
