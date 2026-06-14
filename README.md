@@ -4,7 +4,6 @@ This repo is a GDD for dark urban fantasy grand strategy game where players buil
 
 ### Table of Content
 
-- [Contributing](CONTRIBUTING.md)
 - [Game Overview](GAME_OVERVIEW.md)
 - [Design Principles](DESIGN_PRINCIPLES.md)
 - [Glossary](GLOSSARY.md)
