@@ -14,6 +14,8 @@ Organizations are structures of power rather than collections of resources. They
 
 The mechanic separates long-term identity from short-term strategy. Identity should remain relatively stable, while strategy adapts to changing circumstances and creates meaningful tradeoffs.
 
+Growth should create both power and risk. Larger organizations become more capable through delegation and specialization, but also harder to manage and more vulnerable to internal instability.
+
 ## Entities
 
 - Origin
@@ -51,9 +53,20 @@ Attributes are shared resources used by multiple systems.
 
 ### Internal Politics
 
-Organizations may experience crises, rivalries, and power struggles.
+Organizations can generate internal tensions and conflicts as a consequence of growth and leadership.
 
 Internal politics should complicate the game rather than replace it.
+
+### Dynamics
+
+Organizations evolve through changes in:
+
+- leadership
+- strategy
+- organizational state
+- internal stability
+
+Changes in one area should create consequences in others.
 
 ## Player Interaction & Tradeoffs
 
@@ -75,6 +88,26 @@ Every advantage should create a vulnerability.
 
 ## Progression
 
+### Temporal Layers
+
+#### Static Components
+
+Rarely change during a campaign:
+
+- Origin
+- Organization Type
+- Ethos
+
+#### Dynamic Components
+
+Change frequently during play:
+
+- Doctrine
+- Offices
+- Attributes
+
+Most recurring decisions should emerge from dynamic components.
+
 - Early game: establish identity and leadership.
 - Mid game: expand influence and delegate power.
 - Late game: manage succession, complexity, and internal pressures.
@@ -95,6 +128,20 @@ Examples intentionally deferred until the mechanic is stabilized.
 
 ## Design Notes
 
+### Core Gameplay Loop
+
+Identity shapes available strategies.
+
+Strategy creates consequences.
+
+Consequences modify organizational state.
+
+Changes in organizational state create leadership pressures.
+
+Leadership changes alter future strategies.
+
+This loop generates emergent stories and long-term organizational evolution.
+
 ### Design Principles
 
 - Separate identity from strategy.
@@ -102,6 +149,7 @@ Examples intentionally deferred until the mechanic is stabilized.
 - Prefer broad mechanics with multiple uses.
 - Generate stories through systemic interactions.
 - Focus on identity and governance.
+- Growth creates risk.
 
 ### Failure Modes
 
