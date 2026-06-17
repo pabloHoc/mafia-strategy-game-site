@@ -34,7 +34,7 @@ What are the tradeoffs involved?
 - Decision 2
 - Tradeoff 2
 
-## Progression
+## Progression (Optional)
 
 How does this mechanic evolve over the course of the game?
 
