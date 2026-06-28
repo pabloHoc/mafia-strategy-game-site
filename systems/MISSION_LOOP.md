@@ -56,13 +56,34 @@ After assembling resources, the player selects an approach such as:
 
 Approaches do not add power; they **reallocate effectiveness between axes**, shaping tradeoffs.
 
+Losing an axis should generate specific consequences rather than simply reducing an overall score.
+
+Typical examples include:
+
+- Secrecy → increased Heat or exposure
+- Escape → injured or captured operatives
+- Control → inability to secure the objective
+- Influence → political or social backlash
+
+This allows missions to produce distinct stories and persistent changes to the world even when their primary objective succeeds.
+
+## Design Principles
+
+Approaches are intentionally designed as **soft specializations**, not hard requirements.
+
+Any approach should generally be capable of attempting a mission, but each carries different strengths, weaknesses, risks, and long-term consequences.
+
+The goal is to encourage players to choose *which tradeoffs they are willing to accept*, rather than discovering the single "correct" approach.
+
+Likewise, approaches are not intended to form a rock-paper-scissors relationship. They do not directly counter one another. Instead, approaches modify how available capabilities are applied, while interactions emerge naturally from the underlying systems and the specific mission context.
+
 For example, the same “eliminate a rival leader” mission:
 
 - Force approach: high chance of elimination, high exposure risk
 - Intrigue approach: slower setup, but lower exposure and potential for political framing
 - Commerce approach: may convert the situation into bribery, buyouts, or negotiated removal instead of violence
 
-# Assets in Missions
+# Mission Assembly
 
 Assets are not passive modifiers — they are **capability sources that define what mission options exist**.
 
@@ -83,6 +104,14 @@ and
 
 However, committing assets creates risk: they may become exposed, occupied, damaged, or targeted by rivals.
 
+## Design Principles
+
+Mission planning should revolve around meaningful opportunity cost.
+
+Every lieutenant, crew, asset, or amount of wealth committed to one mission becomes unavailable for others, forcing players to prioritize which opportunities are worth pursuing.
+
+Likewise, gathering additional Intel improves decision making, but consumes time during which the world continues to evolve and opportunities may disappear.
+
 # Mission Resolution
 
 Once a mission is assembled and executed, it enters a resolution phase where uncertainty and opposition matter.
@@ -100,12 +129,18 @@ When interference occurs, factions enter a **simultaneous escalation phase**, wh
 - hold position
 - withdraw
 
+Hidden reserves exist to create uncertainty and prevent last-mover advantage.
+
 Because decisions are simultaneous and information is incomplete, missions become a system of:
 
 - bluffing
 - commitment
 - risk prediction
 - reserve management
+
+Because escalation decisions are made simultaneously, players must decide whether to commit additional resources without knowing whether their opponents will do the same. 
+
+This encourages preparation, bluffing, and risk assessment rather than reactive optimization.
 
 After escalation, final strength across all sides is calculated, and the mission resolves into a **graded outcome across all axes**, producing consequences rather than binary success/failure.
 
@@ -120,6 +155,12 @@ This ensures that:
 - success can still create problems
 - failure can still generate opportunities
 - partial outcomes are the norm, not the exception
+
+Players should rarely maximize every mission axis simultaneously.
+
+The objective is not to discover a perfect solution, but to decide which consequences are acceptable in pursuit of the primary objective.
+
+Success is therefore measured not only by accomplishing the mission, but by shaping the resulting world state in a favorable way.
 
 # Core Mission Loop
 
