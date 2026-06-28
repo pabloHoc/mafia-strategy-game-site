@@ -166,22 +166,14 @@ Success is therefore measured not only by accomplishing the mission, but by shap
 
 The full loop is:
 
-1. **Opportunity emerges or is discovered**
-- from districts, PoIs, assets, events, intel, or schemes
-2. **Intel reshapes interpretation**
-- reveals alternative objectives, stakeholders, or approaches
-3. **Player assembles mission**
-- commits assets, crew, resources, and leverage
-4. **Player chooses approach**
-- defines how capabilities map to mission axes
-5. **Execution + potential discovery**
-- other factions may partially or fully detect the mission
-6. **Interference + escalation (if applicable)**
-- simultaneous decisions with imperfect information
-7. **Resolution across axes**
-- determines outcomes and world changes
-8. **New opportunities and consequences emerge**
-- feeding back into districts, assets, intel, and future missions
+1. **Opportunity emerges or is discovered** → from districts, PoIs, assets, events, intel, or schemes
+2. **Intel reshapes interpretation** → reveals alternative objectives, stakeholders, or approaches
+3. **Player assembles mission** → commits assets, crew, resources, and leverage
+4. **Player chooses approach** → defines how capabilities map to mission axes
+5. **Execution + potential discovery** → other factions may partially or fully detect the mission
+6. **Interference + escalation (if applicable)** → simultaneous decisions with imperfect information
+7. **Resolution across axes** → determines outcomes and world changes
+8. **New opportunities and consequences emerge** → feeding back into districts, assets, intel, and future missions
 
 # Mission Lifecycle & State Model (Execution Layer)
 
