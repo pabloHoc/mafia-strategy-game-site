@@ -1,6 +1,6 @@
 # Mission Resolution
 
-**Status:** WIP
+**Status:** Discarded. Superseeded by [MISSIONS](../mechanics/MISSIONS.md)
 
 ## Purpose
 
